@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/fr/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/fr/blog/feed.xml</link>
+    <description></description>
+    <language>fr</language>
+     <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Tout ce que vous devez savoir pour préparer votre  boutique aux French Days</title>
+    <link>https://www.prestashop.com/fr/blog//french-days-preparer-sa-boutique-2018</link>
+    <description>Comment préparer sa boutique en ligne pour “Les French Days” ?
+Qu’est-ce que ”Les French Days ?”</description>
+     <pubDate>Mon, 23 Apr 2018 16:48:27 +0200</pubDate>
+ <dc:creator>camille.teissier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog//french-days-preparer-sa-boutique-2018</guid>
+  </item>
+  <item>
+    <title>Clients mécontents? Adoptez les bons réflexes.</title>
+    <link>https://www.prestashop.com/fr/blog/clients-mecontents-adoptez-les-bons-reflexes</link>
+    <description>Un client satisfait est un client qui se sent valorisé et écouté.</description>
+     <pubDate>Wed, 18 Apr 2018 10:28:34 +0200</pubDate>
+ <dc:creator>SAG</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/clients-mecontents-adoptez-les-bons-reflexes</guid>
+  </item>
+  <item>
+    <title> Découvrez les solutions de PrestaShop en réponse aux nouvelles exigences en matière de protection des données.</title>
+    <link>https://www.prestashop.com/fr/blog/decouvrez-les-solutions-de-prestashop-en-reponse-aux-nouvelles-exigences-en-matiere-de-protection-des-donnees-2</link>
+    <description>Comme vous le savez, le 25 mai prochain entrera en application le nouveau texte en matière de protection des données à caractère personnel.</description>
+     <pubDate>Wed, 11 Apr 2018 15:21:53 +0200</pubDate>
+ <dc:creator>camille.teissier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/decouvrez-les-solutions-de-prestashop-en-reponse-aux-nouvelles-exigences-en-matiere-de-protection-des-donnees-2</guid>
+  </item>
+  <item>
+    <title>L’enjeu majeur des appareils mobiles.</title>
+    <link>https://www.prestashop.com/fr/blog/lenjeu-majeur-des-appareils-mobiles</link>
+    <description>Les tendances en matière d&#039;e-commerce
+ </description>
+     <pubDate>Mon, 09 Apr 2018 11:51:54 +0200</pubDate>
+ <dc:creator>paypal</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/lenjeu-majeur-des-appareils-mobiles</guid>
+  </item>
+  <item>
+    <title>Comment limiter les abandons de panier grâce à votre page de paiement ?</title>
+    <link>https://www.prestashop.com/fr/blog/comment-limiter-les-abandons-de-panier-grace-a-votre-page-de-paiement</link>
+    <description>En tant qu’e-commerçant, vous surveillez certainement avec attention le taux d’abandon de panier sur votre boutique en ligne.</description>
+     <pubDate>Wed, 28 Mar 2018 18:17:04 +0200</pubDate>
+ <dc:creator>PayPlug</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/comment-limiter-les-abandons-de-panier-grace-a-votre-page-de-paiement</guid>
+  </item>
+  <item>
+    <title>Positionnement prix : 8 raisons d’adopter la stratégie d’écrémage</title>
+    <link>https://www.prestashop.com/fr/blog/strategie-positionnement</link>
+    <description>Chers e-commerçants, si vous tentiez la stratégie d’écrémage ?</description>
+     <pubDate>Tue, 27 Mar 2018 15:28:38 +0200</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/strategie-positionnement</guid>
+  </item>
+  <item>
+    <title>Rencontrez Pravesh, notre Ambassadeur du mois | Mars 2018</title>
+    <link>https://www.prestashop.com/fr/blog/ambassadeur-pravesh-lucknow</link>
+    <description>Pravesh est notre Ambassadeur du mois et nous vient de Lucknow, en Inde. Il est dans le Programme Ambassadeur depuis début 2016.</description>
+     <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/ambassadeur-pravesh-lucknow</guid>
+  </item>
+  <item>
+    <title>PrestaShop lance PrestaTrust, un système de traçabilité basé sur la blockchain</title>
+    <link>https://www.prestashop.com/fr/blog/lancement-prestatrust</link>
+    <description>Après la récente publication de la version 1.7.3, PrestaShop lance PrestaTrust, un système de traçabilité qui s’appuie sur l’innovation inhérente à la blockcha</description>
+     <pubDate>Tue, 20 Mar 2018 17:52:26 +0100</pubDate>
+ <dc:creator>camille.teissier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/lancement-prestatrust</guid>
+  </item>
+  <item>
+    <title>PrestaShop 1.7.3.0 est disponible !</title>
+    <link>https://www.prestashop.com/fr/blog/prestashop-1-7-3-0-est-disponible</link>
+    <description>
+PLUS SIMPLE -  PLUS RAPIDE - INTERNATIONAL</description>
+     <pubDate>Wed, 07 Mar 2018 11:33:31 +0100</pubDate>
+ <dc:creator>camille.teissier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/prestashop-1-7-3-0-est-disponible</guid>
+  </item>
+  <item>
+    <title>[SPECIAL LIVRAISON] - 3 chiffres à savoir avant de proposer la livraison à vos clients</title>
+    <link>https://www.prestashop.com/fr/blog/special-livraison-3-chiffres-a-savoir-avant-de-proposer-la-livraison-a-vos-clients</link>
+    <description>Accordez-vous l’importance adéquate à la livraison dans votre stratégie business et marketing ? Répondez-vous correctement aux besoins et aux attentes de vos clients ?</description>
+     <pubDate>Wed, 28 Feb 2018 14:58:58 +0100</pubDate>
+ <dc:creator>upela</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/special-livraison-3-chiffres-a-savoir-avant-de-proposer-la-livraison-a-vos-clients</guid>
+  </item>
+  </channel>
+</rss>
