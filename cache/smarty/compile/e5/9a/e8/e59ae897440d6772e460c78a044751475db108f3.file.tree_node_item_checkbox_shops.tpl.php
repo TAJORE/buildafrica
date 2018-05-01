@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2018-04-25 00:10:09
+<?php /* Smarty version Smarty-3.1.19, created on 2018-04-27 21:50:24
          compiled from "C:\wamp64\www\buildafrica\admin\themes\default\template\helpers\tree\tree_node_item_checkbox_shops.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:12260216395adfc761b48d40-44381358%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:19825572485ae39b20efa779-27825198%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '12260216395adfc761b48d40-44381358',
+  'nocache_hash' => '19825572485ae39b20efa779-27825198',
   'function' => 
   array (
   ),
@@ -22,9 +22,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5adfc761b60e81_74351686',
+  'unifunc' => 'content_5ae39b20f0ea55_09230834',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5adfc761b60e81_74351686')) {function content_5adfc761b60e81_74351686($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5ae39b20f0ea55_09230834')) {function content_5ae39b20f0ea55_09230834($_smarty_tpl) {?>
 <li class="tree-item<?php if (isset($_smarty_tpl->tpl_vars['node']->value['disabled'])&&$_smarty_tpl->tpl_vars['node']->value['disabled']==true) {?> tree-item-disable<?php }?>">
 	<span class="tree-item-name">
 		<input type="checkbox" name="checkBoxShopAsso_<?php echo $_smarty_tpl->tpl_vars['table']->value;?>

@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2018-04-25 00:09:16
+<?php /* Smarty version Smarty-3.1.19, created on 2018-04-27 21:50:17
          compiled from "C:\wamp64\www\buildafrica\admin\themes\default\template\controllers\carrier_wizard\helpers\form\form_ranges.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:3001319355adfc72c21ff98-13756755%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:17896798715ae39b191fa8e2-19923759%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '3001319355adfc72c21ff98-13756755',
+  'nocache_hash' => '17896798715ae39b191fa8e2-19923759',
   'function' => 
   array (
   ),
@@ -30,9 +30,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5adfc72c35c549_43342780',
+  'unifunc' => 'content_5ae39b192cc173_95827562',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5adfc72c35c549_43342780')) {function content_5adfc72c35c549_43342780($_smarty_tpl) {?>		<script>var zones_nbr = <?php echo count($_smarty_tpl->tpl_vars['zones']->value)+3;?>
+<?php if ($_valid && !is_callable('content_5ae39b192cc173_95827562')) {function content_5ae39b192cc173_95827562($_smarty_tpl) {?>		<script>var zones_nbr = <?php echo count($_smarty_tpl->tpl_vars['zones']->value)+3;?>
  ; /*corresponds to the third input text (max, min and all)*/</script>
 		<div id="zone_ranges" style="overflow:auto">
 			<h4><?php echo smartyTranslate(array('s'=>'Ranges'),$_smarty_tpl);?>

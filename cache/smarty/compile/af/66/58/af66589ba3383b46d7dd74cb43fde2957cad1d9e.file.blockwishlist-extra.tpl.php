@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2018-04-25 00:09:34
+<?php /* Smarty version Smarty-3.1.19, created on 2018-04-27 21:50:19
          compiled from "C:\wamp64\www\buildafrica\themes\default-bootstrap\modules\blockwishlist\blockwishlist-extra.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:18101807935adfc73eaa7b73-60621191%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:9243283305ae39b1bd04eb5-27383135%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '18101807935adfc73eaa7b73-60621191',
+  'nocache_hash' => '9243283305ae39b1bd04eb5-27383135',
   'function' => 
   array (
   ),
@@ -23,9 +23,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5adfc73eae8089_14669844',
+  'unifunc' => 'content_5ae39b1bd3fb83_59542154',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5adfc73eae8089_14669844')) {function content_5adfc73eae8089_14669844($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5ae39b1bd3fb83_59542154')) {function content_5ae39b1bd3fb83_59542154($_smarty_tpl) {?>
 <p class="buttons_bottom_block no-print">
 <?php if (count($_smarty_tpl->tpl_vars['wishlists']->value)==1) {?>
 	<a id="wishlist_button_nopop" href="#" onclick="WishlistCart('wishlist_block_list', 'add', '<?php echo intval($_smarty_tpl->tpl_vars['id_product']->value);?>

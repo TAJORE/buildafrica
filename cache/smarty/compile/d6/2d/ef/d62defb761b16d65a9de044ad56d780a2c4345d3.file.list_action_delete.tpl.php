@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2018-04-25 00:09:46
+<?php /* Smarty version Smarty-3.1.19, created on 2018-04-27 21:50:21
          compiled from "C:\wamp64\www\buildafrica\admin\themes\default\template\controllers\shop\helpers\list\list_action_delete.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:4146314385adfc74a8c2a75-18194832%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:6611870025ae39b1d6c8a82-51786086%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '4146314385adfc74a8c2a75-18194832',
+  'nocache_hash' => '6611870025ae39b1d6c8a82-51786086',
   'function' => 
   array (
   ),
@@ -25,9 +25,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5adfc74a8db2d2_42746645',
+  'unifunc' => 'content_5ae39b1d6ebaa9_39985936',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5adfc74a8db2d2_42746645')) {function content_5adfc74a8db2d2_42746645($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5ae39b1d6ebaa9_39985936')) {function content_5ae39b1d6ebaa9_39985936($_smarty_tpl) {?>
 <a href="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['href']->value, ENT_QUOTES, 'UTF-8', true);?>
 " class="delete" title="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['action']->value, ENT_QUOTES, 'UTF-8', true);?>
 "

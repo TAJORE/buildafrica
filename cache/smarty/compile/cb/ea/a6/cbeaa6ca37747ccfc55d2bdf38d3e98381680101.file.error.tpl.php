@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2018-04-25 00:09:50
+<?php /* Smarty version Smarty-3.1.19, created on 2018-04-27 21:50:22
          compiled from "C:\wamp64\www\buildafrica\admin\themes\default\template\error.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:14865789805adfc74ebc6537-74609038%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:14193174675ae39b1e17f976-94287008%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '14865789805adfc74ebc6537-74609038',
+  'nocache_hash' => '14193174675ae39b1e17f976-94287008',
   'function' => 
   array (
   ),
@@ -22,9 +22,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5adfc74ec0ddf0_69414390',
+  'unifunc' => 'content_5ae39b1e19ef52_48734108',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5adfc74ec0ddf0_69414390')) {function content_5adfc74ec0ddf0_69414390($_smarty_tpl) {?><?php if (isset($_smarty_tpl->tpl_vars['php_errors']->value)&&count($_smarty_tpl->tpl_vars['php_errors']->value)) {?>
+<?php if ($_valid && !is_callable('content_5ae39b1e19ef52_48734108')) {function content_5ae39b1e19ef52_48734108($_smarty_tpl) {?><?php if (isset($_smarty_tpl->tpl_vars['php_errors']->value)&&count($_smarty_tpl->tpl_vars['php_errors']->value)) {?>
 <div class="bootstrap">
 	<div id="error-modal" class="modal fade">
 		<div class="modal-dialog">

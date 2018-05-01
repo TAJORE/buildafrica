@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2018-04-25 00:10:09
+<?php /* Smarty version Smarty-3.1.19, created on 2018-04-27 21:50:25
          compiled from "C:\wamp64\www\buildafrica\admin\themes\default\template\helpers\tree\tree_toolbar.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:10550010055adfc761f0eae2-16318850%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:19536859555ae39b210768e2-47184553%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '10550010055adfc761f0eae2-16318850',
+  'nocache_hash' => '19536859555ae39b210768e2-47184553',
   'function' => 
   array (
   ),
@@ -22,9 +22,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5adfc761f2a7f2_13360926',
+  'unifunc' => 'content_5ae39b21081081_40402862',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5adfc761f2a7f2_13360926')) {function content_5adfc761f2a7f2_13360926($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5ae39b21081081_40402862')) {function content_5ae39b21081081_40402862($_smarty_tpl) {?>
 <div class="tree-actions pull-right">
 	<?php if (isset($_smarty_tpl->tpl_vars['actions']->value)) {?>
 	<?php  $_smarty_tpl->tpl_vars['action'] = new Smarty_Variable; $_smarty_tpl->tpl_vars['action']->_loop = false;

@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2018-04-25 00:09:51
+<?php /* Smarty version Smarty-3.1.19, created on 2018-04-27 21:50:22
          compiled from "C:\wamp64\www\buildafrica\admin\themes\default\template\form_date_range_picker.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:11929356555adfc74f5fef29-07967112%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:17832959115ae39b1e2dbbc3-68078831%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '11929356555adfc74f5fef29-07967112',
+  'nocache_hash' => '17832959115ae39b1e2dbbc3-68078831',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5adfc74f62e7b6_01693200',
+  'unifunc' => 'content_5ae39b1e300b67_75992922',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5adfc74f62e7b6_01693200')) {function content_5adfc74f62e7b6_01693200($_smarty_tpl) {?><div id="calendar" class="panel">
+<?php if ($_valid && !is_callable('content_5ae39b1e300b67_75992922')) {function content_5ae39b1e300b67_75992922($_smarty_tpl) {?><div id="calendar" class="panel">
 	<form action="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['action']->value, ENT_QUOTES, 'UTF-8', true);?>
 " method="post" id="calendar_form" name="calendar_form" class="form-inline">
 		<div class="row">

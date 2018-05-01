@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:9902967415adfcc1735dd89-69912240%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:9378170885ae39ecb7a7c77-66183612%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -15,17 +15,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '9902967415adfcc1735dd89-69912240',
-  'variables' => 
-  array (
-    'best_sellers' => 0,
-  ),
-  'has_nocache_code' => false,
+  'nocache_hash' => '9378170885ae39ecb7a7c77-66183612',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5adfcc17438266_56535001',
+  'unifunc' => 'content_5ae6b771892602_91761082',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5adfcc17438266_56535001')) {function content_5adfcc17438266_56535001($_smarty_tpl) {?>		
+<?php if ($_valid && !is_callable('content_5ae6b771892602_91761082')) {function content_5ae6b771892602_91761082($_smarty_tpl) {?>		
 									
 		
 	
@@ -52,8 +48,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
 										
-										27,00 €									</span>
-									<meta itemprop="priceCurrency" content="EUR" />
+										27,00 FCFA									</span>
+									<meta itemprop="priceCurrency" content="XAF" />
 																												<span class="unvisible">
 																								<link itemprop="availability" href="https://schema.org/InStock" />En stock																					</span>
 																		
@@ -77,13 +73,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 										<div class="content_price">
 													
 							<span class="price product-price">
-								27,00 €							</span>
+								27,00 FCFA							</span>
 														
 							
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/buildafrica/fr/panier?add=1&amp;id_product=2&amp;ipa=7&amp;token=9312562451f32314423b3b51d044ed2c" rel="nofollow" title="Ajouter au panier" data-id-product-attribute="7" data-id-product="2" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/buildafrica/fr/panier?add=1&amp;id_product=2&amp;ipa=7&amp;token=0931aefaeb7cb02412f79eea0d78a8d1" rel="nofollow" title="Ajouter au panier" data-id-product-attribute="7" data-id-product="2" data-minimal_quantity="1">
 									<span>Ajouter au panier</span>
 								</a>
 																			<a class="button lnk_view btn btn-default" href="http://localhost/buildafrica/fr/chemisiers/2-chemisier.html" title="Afficher">
@@ -120,8 +116,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
 										
-										16,51 €									</span>
-									<meta itemprop="priceCurrency" content="EUR" />
+										16,51 FCFA									</span>
+									<meta itemprop="priceCurrency" content="XAF" />
 																												<span class="unvisible">
 																								<link itemprop="availability" href="https://schema.org/InStock" />En stock																					</span>
 																		
@@ -145,13 +141,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 										<div class="content_price">
 													
 							<span class="price product-price">
-								16,51 €							</span>
+								16,51 FCFA							</span>
 														
 							
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/buildafrica/fr/panier?add=1&amp;id_product=1&amp;ipa=1&amp;token=9312562451f32314423b3b51d044ed2c" rel="nofollow" title="Ajouter au panier" data-id-product-attribute="1" data-id-product="1" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/buildafrica/fr/panier?add=1&amp;id_product=1&amp;ipa=1&amp;token=0931aefaeb7cb02412f79eea0d78a8d1" rel="nofollow" title="Ajouter au panier" data-id-product-attribute="1" data-id-product="1" data-minimal_quantity="1">
 									<span>Ajouter au panier</span>
 								</a>
 																			<a class="button lnk_view btn btn-default" href="http://localhost/buildafrica/fr/t-shirts/1-t-shirt-delave-manches-courtes.html" title="Afficher">
@@ -188,8 +184,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
 										
-										26,00 €									</span>
-									<meta itemprop="priceCurrency" content="EUR" />
+										26,00 FCFA									</span>
+									<meta itemprop="priceCurrency" content="XAF" />
 																												<span class="unvisible">
 																								<link itemprop="availability" href="https://schema.org/InStock" />En stock																					</span>
 																		
@@ -213,13 +209,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 										<div class="content_price">
 													
 							<span class="price product-price">
-								26,00 €							</span>
+								26,00 FCFA							</span>
 														
 							
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/buildafrica/fr/panier?add=1&amp;id_product=3&amp;ipa=13&amp;token=9312562451f32314423b3b51d044ed2c" rel="nofollow" title="Ajouter au panier" data-id-product-attribute="13" data-id-product="3" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/buildafrica/fr/panier?add=1&amp;id_product=3&amp;ipa=13&amp;token=0931aefaeb7cb02412f79eea0d78a8d1" rel="nofollow" title="Ajouter au panier" data-id-product-attribute="13" data-id-product="3" data-minimal_quantity="1">
 									<span>Ajouter au panier</span>
 								</a>
 																			<a class="button lnk_view btn btn-default" href="http://localhost/buildafrica/fr/robes-decontractees/3-robe-imprimee.html" title="Afficher">
@@ -256,8 +252,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
 										
-										30,50 €									</span>
-									<meta itemprop="priceCurrency" content="EUR" />
+										30,50 FCFA									</span>
+									<meta itemprop="priceCurrency" content="XAF" />
 																												<span class="unvisible">
 																								<link itemprop="availability" href="https://schema.org/InStock" />En stock																					</span>
 																		
@@ -281,13 +277,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 										<div class="content_price">
 													
 							<span class="price product-price">
-								30,50 €							</span>
+								30,50 FCFA							</span>
 														
 							
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/buildafrica/fr/panier?add=1&amp;id_product=6&amp;ipa=31&amp;token=9312562451f32314423b3b51d044ed2c" rel="nofollow" title="Ajouter au panier" data-id-product-attribute="31" data-id-product="6" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/buildafrica/fr/panier?add=1&amp;id_product=6&amp;ipa=31&amp;token=0931aefaeb7cb02412f79eea0d78a8d1" rel="nofollow" title="Ajouter au panier" data-id-product-attribute="31" data-id-product="6" data-minimal_quantity="1">
 									<span>Ajouter au panier</span>
 								</a>
 																			<a class="button lnk_view btn btn-default" href="http://localhost/buildafrica/fr/robes-ete/6-robe-ete-imprimee.html" title="Afficher">
@@ -324,11 +320,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
 										
-										16,40 €									</span>
-									<meta itemprop="priceCurrency" content="EUR" />
+										16,40 FCFA									</span>
+									<meta itemprop="priceCurrency" content="XAF" />
 																			
 										<span class="old-price product-price">
-											20,50 €
+											20,50 FCFA
 										</span>
 																					<span class="price-percent-reduction">-20%</span>
 																																						<span class="unvisible">
@@ -354,10 +350,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 										<div class="content_price">
 													
 							<span class="price product-price">
-								16,40 €							</span>
+								16,40 FCFA							</span>
 															
 								<span class="old-price product-price">
-									20,50 €
+									20,50 FCFA
 								</span>
 								
 																	<span class="price-percent-reduction">-20%</span>
@@ -366,7 +362,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/buildafrica/fr/panier?add=1&amp;id_product=7&amp;ipa=34&amp;token=9312562451f32314423b3b51d044ed2c" rel="nofollow" title="Ajouter au panier" data-id-product-attribute="34" data-id-product="7" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/buildafrica/fr/panier?add=1&amp;id_product=7&amp;ipa=34&amp;token=0931aefaeb7cb02412f79eea0d78a8d1" rel="nofollow" title="Ajouter au panier" data-id-product-attribute="34" data-id-product="7" data-minimal_quantity="1">
 									<span>Ajouter au panier</span>
 								</a>
 																			<a class="button lnk_view btn btn-default" href="http://localhost/buildafrica/fr/robes-ete/7-robe-mousseline-imprimee.html" title="Afficher">
@@ -404,11 +400,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																			<div class="content_price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
 										
-										28,98 €									</span>
-									<meta itemprop="priceCurrency" content="EUR" />
+										28,98 FCFA									</span>
+									<meta itemprop="priceCurrency" content="XAF" />
 																			
 										<span class="old-price product-price">
-											30,51 €
+											30,51 FCFA
 										</span>
 																					<span class="price-percent-reduction">-5%</span>
 																																						<span class="unvisible">
@@ -434,10 +430,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 										<div class="content_price">
 													
 							<span class="price product-price">
-								28,98 €							</span>
+								28,98 FCFA							</span>
 															
 								<span class="old-price product-price">
-									30,51 €
+									30,51 FCFA
 								</span>
 								
 																	<span class="price-percent-reduction">-5%</span>
@@ -446,7 +442,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/buildafrica/fr/panier?add=1&amp;id_product=5&amp;ipa=19&amp;token=9312562451f32314423b3b51d044ed2c" rel="nofollow" title="Ajouter au panier" data-id-product-attribute="19" data-id-product="5" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/buildafrica/fr/panier?add=1&amp;id_product=5&amp;ipa=19&amp;token=0931aefaeb7cb02412f79eea0d78a8d1" rel="nofollow" title="Ajouter au panier" data-id-product-attribute="19" data-id-product="5" data-minimal_quantity="1">
 									<span>Ajouter au panier</span>
 								</a>
 																			<a class="button lnk_view btn btn-default" href="http://localhost/buildafrica/fr/robes-ete/5-robe-ete-imprimee.html" title="Afficher">

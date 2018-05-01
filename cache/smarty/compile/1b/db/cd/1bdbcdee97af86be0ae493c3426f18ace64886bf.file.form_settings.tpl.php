@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2018-04-25 00:09:45
+<?php /* Smarty version Smarty-3.1.19, created on 2018-04-27 21:50:21
          compiled from "C:\wamp64\www\buildafrica\admin\themes\default\template\controllers\referrers\form_settings.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:16629102675adfc7493429c2-19895911%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:10693337265ae39b1d3b0741-29690456%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '16629102675adfc7493429c2-19895911',
+  'nocache_hash' => '10693337265ae39b1d3b0741-29690456',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5adfc749382503_91265949',
+  'unifunc' => 'content_5ae39b1d3e0899_76003498',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5adfc749382503_91265949')) {function content_5adfc749382503_91265949($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5ae39b1d3e0899_76003498')) {function content_5ae39b1d3e0899_76003498($_smarty_tpl) {?>
 <div class="row">
 	<div class="col-lg-6">
 			<form action="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['current']->value, ENT_QUOTES, 'UTF-8', true);?>

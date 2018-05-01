@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2018-04-25 00:09:17
+<?php /* Smarty version Smarty-3.1.19, created on 2018-04-27 21:50:17
          compiled from "C:\wamp64\www\buildafrica\admin\themes\default\template\controllers\cart_rules\conditions.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:20466964745adfc72d6572b1-45799350%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:17613824875ae39b19474f96-45930880%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '20466964745adfc72d6572b1-45799350',
+  'nocache_hash' => '17613824875ae39b19474f96-45930880',
   'function' => 
   array (
   ),
@@ -39,9 +39,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5adfc72d7a6da3_99225615',
+  'unifunc' => 'content_5ae39b195bc7b4_69686020',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5adfc72d7a6da3_99225615')) {function content_5adfc72d7a6da3_99225615($_smarty_tpl) {?><div class="form-group">
+<?php if ($_valid && !is_callable('content_5ae39b195bc7b4_69686020')) {function content_5ae39b195bc7b4_69686020($_smarty_tpl) {?><div class="form-group">
 	<label class="control-label col-lg-3">
 		<span class="label-tooltip" data-toggle="tooltip"
 			title="<?php echo smartyTranslate(array('s'=>'Optional: The cart rule will be available to everyone if you leave this field blank.'),$_smarty_tpl);?>

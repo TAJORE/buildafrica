@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:14066809345adfcc180be2e2-42717000%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:13352705595ae39ecbdf80a8-49327617%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -15,20 +15,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '14066809345adfcc180be2e2-42717000',
-  'variables' => 
-  array (
-    'isDhtml' => 0,
-    'blockCategTree' => 0,
-    'child' => 0,
-    'numberColumn' => 0,
-  ),
-  'has_nocache_code' => false,
+  'nocache_hash' => '13352705595ae39ecbdf80a8-49327617',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5adfcc1836ae02_75931238',
+  'unifunc' => 'content_5ae6b7721aae52_37453757',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5adfcc1836ae02_75931238')) {function content_5adfcc1836ae02_75931238($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5ae6b7721aae52_37453757')) {function content_5ae6b7721aae52_37453757($_smarty_tpl) {?>
 <!-- Block categories module -->
 <section class="blockcategories_footer footer-block col-xs-12 col-sm-2">
 	<h4>Catégories</h4>
@@ -36,7 +29,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 		<div class="list">
 			<ul class="dhtml">
 												
-<li class="last">
+<li >
 	<a 
 	href="http://localhost/buildafrica/fr/3-femmes" title="Vous trouverez ici toutes les collections mode pour femmes.  
  Cette catégorie regroupe tous les basiques de votre garde-robe et bien plus encore : 
@@ -109,6 +102,176 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	</li>
 
 									</ul>
+	</li>
+
+							
+																
+<li >
+	<a 
+	href="http://localhost/buildafrica/fr/12-plomberie" title="vous trouverez ici tout le nécessaire pour votre plomberie">
+		Plomberie
+	</a>
+			<ul>
+												
+<li >
+	<a 
+	href="http://localhost/buildafrica/fr/13-sanitaire" title="les pots de douche très durable et avec des prix imbattables">
+		sanitaire
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="http://localhost/buildafrica/fr/14-mirroir-pour-salle-de-bain" title="">
+		mirroir pour salle de bain
+	</a>
+	</li>
+
+																
+<li class="last">
+	<a 
+	href="http://localhost/buildafrica/fr/15-robinet-14" title="">
+		Robinet 1/4
+	</a>
+	</li>
+
+									</ul>
+	</li>
+
+							
+																
+<li >
+	<a 
+	href="http://localhost/buildafrica/fr/16-peinture" title="">
+		PEINTURE
+	</a>
+	</li>
+
+							
+																
+<li >
+	<a 
+	href="http://localhost/buildafrica/fr/17-electricite" title="">
+		ELECTRICITE
+	</a>
+			<ul>
+												
+<li >
+	<a 
+	href="http://localhost/buildafrica/fr/27-eclairage-exterieur" title="">
+		ECLAIRAGE EXTERIEUR
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="http://localhost/buildafrica/fr/28-eclairage-interieur" title="">
+		ECLAIRAGE INTERIEUR
+	</a>
+	</li>
+
+																
+<li class="last">
+	<a 
+	href="http://localhost/buildafrica/fr/29-eclairage-public" title="">
+		ECLAIRAGE PUBLIC
+	</a>
+			<ul>
+												
+<li class="last">
+	<a 
+	href="http://localhost/buildafrica/fr/30-photovoltaique" title="">
+		 PHOTOVOLTAIQUE
+	</a>
+	</li>
+
+									</ul>
+	</li>
+
+									</ul>
+	</li>
+
+							
+																
+<li >
+	<a 
+	href="http://localhost/buildafrica/fr/18-quincaillerie-generale" title="">
+		QUINCAILLERIE GENERALE
+	</a>
+	</li>
+
+							
+																
+<li >
+	<a 
+	href="http://localhost/buildafrica/fr/19-appareillage" title="">
+		APPAREILLAGE
+	</a>
+	</li>
+
+							
+																
+<li >
+	<a 
+	href="http://localhost/buildafrica/fr/20-sables-ciments" title="">
+		SABLES &amp; CIMENTS
+	</a>
+	</li>
+
+							
+																
+<li >
+	<a 
+	href="http://localhost/buildafrica/fr/21-carreaux" title="">
+		CARREAUX
+	</a>
+	</li>
+
+							
+																
+<li >
+	<a 
+	href="http://localhost/buildafrica/fr/22-feraille" title="">
+		FERAILLE
+	</a>
+	</li>
+
+							
+																
+<li >
+	<a 
+	href="http://localhost/buildafrica/fr/23-electromenager" title="">
+		ELECTROMENAGER
+	</a>
+	</li>
+
+							
+																
+<li >
+	<a 
+	href="http://localhost/buildafrica/fr/24-tolles-accessoires" title="">
+		TOLLES &amp; ACCESSOIRES
+	</a>
+	</li>
+
+							
+																
+<li >
+	<a 
+	href="http://localhost/buildafrica/fr/25-mobilier" title="">
+		MOBILIER
+	</a>
+	</li>
+
+							
+																
+<li class="last">
+	<a 
+	href="http://localhost/buildafrica/fr/26-equipements-de-chantier" title="">
+		EQUIPEMENTS DE CHANTIER
+	</a>
 	</li>
 
 							

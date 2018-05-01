@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:19991651945adfcc194ea401-28468348%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:16942712075ae39ecc54b8f9-50386443%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,36 +9,29 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '19991651945adfcc194ea401-28468348',
-  'variables' => 
-  array (
-    'blockcontactinfos_company' => 0,
-    'blockcontactinfos_address' => 0,
-    'blockcontactinfos_phone' => 0,
-    'blockcontactinfos_email' => 0,
-  ),
-  'has_nocache_code' => false,
+  'nocache_hash' => '16942712075ae39ecc54b8f9-50386443',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5adfcc19684da8_14280692',
+  'unifunc' => 'content_5ae5e1ca249ef2_80960648',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5adfcc19684da8_14280692')) {function content_5adfcc19684da8_14280692($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5ae5e1ca249ef2_80960648')) {function content_5ae5e1ca249ef2_80960648($_smarty_tpl) {?>
 <!-- MODULE Block contact infos -->
 <section id="block_contact_infos" class="footer-block col-xs-12 col-sm-4">
 	<div>
         <h4>Informations sur votre boutique</h4>
         <ul class="toggle-footer">
                         	<li>
-            		<i class="icon-map-marker"></i>My Company, 42 Puffin street
-12345 Puffinville
-France            	</li>
+            		<i class="icon-map-marker"></i>Eco Build Africa, 8119 ange raphael
+8119 Puffinville
+Cameroun            	</li>
                                     	<li>
             		<i class="icon-phone"></i>Appelez-nous au : 
-            		<span>0123-456-789</span>
+            		<span>678 914 612</span>
             	</li>
                                     	<li>
             		<i class="icon-envelope-alt"></i>E-mail : 
-            		<span><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%73%61%6c%65%73@%79%6f%75%72%63%6f%6d%70%61%6e%79.%63%6f%6d" >&#x73;&#x61;&#x6c;&#x65;&#x73;&#x40;&#x79;&#x6f;&#x75;&#x72;&#x63;&#x6f;&#x6d;&#x70;&#x61;&#x6e;&#x79;&#x2e;&#x63;&#x6f;&#x6d;</a></span>
+            		<span><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%69%6e%66%6f@%45%63%6f%62%75%69%6c%64%41%66%72%69%63%61.%63%6f%6d" >&#x69;&#x6e;&#x66;&#x6f;&#x40;&#x45;&#x63;&#x6f;&#x62;&#x75;&#x69;&#x6c;&#x64;&#x41;&#x66;&#x72;&#x69;&#x63;&#x61;&#x2e;&#x63;&#x6f;&#x6d;</a></span>
             	</li>
                     </ul>
     </div>

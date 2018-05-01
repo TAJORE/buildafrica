@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:18904818595adfcc1a2200b2-51925812%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:17304564215ae39ecd23b405-56359307%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,19 +9,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '18904818595adfcc1a2200b2-51925812',
-  'variables' => 
-  array (
-    'is_logged' => 0,
-    'link' => 0,
-    'telnumber' => 0,
-  ),
-  'has_nocache_code' => false,
+  'nocache_hash' => '17304564215ae39ecd23b405-56359307',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5adfcc1a3d2e71_54558111',
+  'unifunc' => 'content_5ae5e1cb402850_04549919',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5adfcc1a3d2e71_54558111')) {function content_5adfcc1a3d2e71_54558111($_smarty_tpl) {?><div id="contact-link" >
+<?php if ($_valid && !is_callable('content_5ae5e1cb402850_04549919')) {function content_5ae5e1cb402850_04549919($_smarty_tpl) {?><div id="contact-link" >
 	<a href="http://localhost/buildafrica/fr/nous-contacter" title="Contactez-nous">Contactez-nous</a>
 </div>
 	<span class="shop-phone">

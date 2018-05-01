@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2018-04-25 00:09:39
+<?php /* Smarty version Smarty-3.1.19, created on 2018-04-27 21:50:20
          compiled from "C:\wamp64\www\buildafrica\themes\default-bootstrap\modules\cashondelivery\views\templates\hook\payment.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:21466949165adfc7439f36c6-62417096%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1024779495ae39b1c4d3090-68030760%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '21466949165adfc7439f36c6-62417096',
+  'nocache_hash' => '1024779495ae39b1c4d3090-68030760',
   'function' => 
   array (
   ),
@@ -21,9 +21,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5adfc743a06335_89698550',
+  'unifunc' => 'content_5ae39b1c4de7c8_43195604',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5adfc743a06335_89698550')) {function content_5adfc743a06335_89698550($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5ae39b1c4de7c8_43195604')) {function content_5ae39b1c4de7c8_43195604($_smarty_tpl) {?>
 <div class="row">
 	<div class="col-xs-12">
         <p class="payment_module">

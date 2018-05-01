@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2018-04-25 01:32:55
+<?php /* Smarty version Smarty-3.1.19, created on 2018-04-27 23:10:54
          compiled from "C:\wamp64\www\buildafrica\modules\dashproducts\views\templates\hook\dashboard_zone_two.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:18476995245adfccb7d37ce5-72722902%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2907408265ae39fee012a50-64455844%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '18476995245adfccb7d37ce5-72722902',
+  'nocache_hash' => '2907408265ae39fee012a50-64455844',
   'function' => 
   array (
   ),
@@ -27,9 +27,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5adfccb7e32399_33145517',
+  'unifunc' => 'content_5ae39fee04d6b0_47208089',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5adfccb7e32399_33145517')) {function content_5adfccb7e32399_33145517($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5ae39fee04d6b0_47208089')) {function content_5ae39fee04d6b0_47208089($_smarty_tpl) {?>
 
 <section id="dashproducts" class="panel widget <?php if ($_smarty_tpl->tpl_vars['allow_push']->value) {?> allow_push<?php }?>">
 	<header class="panel-heading">

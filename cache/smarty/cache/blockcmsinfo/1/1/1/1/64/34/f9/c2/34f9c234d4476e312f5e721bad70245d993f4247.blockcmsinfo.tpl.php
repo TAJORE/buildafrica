@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:2108387115adfcc13a1e113-07131616%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:21369545485ae39ec97fb542-41878870%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,42 +9,36 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '2108387115adfcc13a1e113-07131616',
-  'variables' => 
-  array (
-    'infos' => 0,
-    'info' => 0,
-  ),
-  'has_nocache_code' => false,
+  'nocache_hash' => '21369545485ae39ec97fb542-41878870',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5adfcc13ae4075_49021571',
+  'unifunc' => 'content_5ae5e1c26223c4_17431562',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5adfcc13ae4075_49021571')) {function content_5adfcc13ae4075_49021571($_smarty_tpl) {?><!-- MODULE Block cmsinfo -->
+<?php if ($_valid && !is_callable('content_5ae5e1c26223c4_17431562')) {function content_5ae5e1c26223c4_17431562($_smarty_tpl) {?><!-- MODULE Block cmsinfo -->
 <div id="cmsinfo_block">
-					<div class="col-xs-6"><ul>
-<li><em class="icon-truck" id="icon-truck"></em>
+					<div class="col-xs-6"><ul><li><em class="icon-truck" id="icon-truck"></em>
 <div class="type-text">
-<h3>Lorem Ipsum</h3>
-<p>Lorem ipsum dolor sit amet conse ctetur voluptate velit esse cillum dolore eu</p>
+<h3>Speed EcobuildAfrica Trafic</h3>
+<p>Le moyen le plus efficace pour transporter vos matériaux</p>
 </div>
 </li>
 <li><em class="icon-phone" id="icon-phone"></em>
 <div class="type-text">
-<h3>Dolor Sit Amet</h3>
-<p>Lorem ipsum dolor sit amet conse ctetur voluptate velit esse cillum dolore eu</p>
+<h3>Nous Restons à votre Ecoute</h3>
+<p>(+237) 699 882 279 /  (+237) 678 914 612</p>
 </div>
 </li>
 <li><em class="icon-credit-card" id="icon-credit-card"></em>
 <div class="type-text">
-<h3>Ctetur Voluptate</h3>
-<p>Lorem ipsum dolor sit amet conse ctetur voluptate velit esse cillum dolore eu</p>
+<h3>Payez en toute sécurité</h3>
+<p>Nous disposons des moyens de paiement fiables et efficaces</p>
 </div>
 </li>
 </ul></div>
-					<div class="col-xs-6"><h3>Custom Block</h3>
-<p><strong class="dark">Lorem ipsum dolor sit amet conse ctetu</strong></p>
-<p>Sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</p></div>
+					<div class="col-xs-6"><h3>Le Client a toujours été Roi chez nous depuis 2 ans</h3>
+<p><strong class="dark">Nous faisons tout notre possible pour vous satisfaire<br /></strong></p>
+<p>EcoBuildAfrica travail d'arrache pied chaque jour pour rendre votre expérience d'achat agréable sur notre plateforme. Nous faisons toujours des efforts pour vous livrer dans des délais les produits de haute qualité.  Vous avez également la possibilité de suivre la logistique de vos produits jusqu'a la livraison moyenant aucun frais. Nous vous donnons une garantie de 7 jours pour tous vos produits acheter via notre plateforme.</p></div>
 		</div>
 <!-- /MODULE Block cmsinfo -->
 <?php }} ?>

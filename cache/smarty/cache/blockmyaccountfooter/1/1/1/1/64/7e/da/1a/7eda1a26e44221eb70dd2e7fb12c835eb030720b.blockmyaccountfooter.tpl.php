@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:17865060795adfcc18ed60b7-02131997%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:11783538585ae39ecc342964-45444189%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,21 +9,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '17865060795adfcc18ed60b7-02131997',
-  'variables' => 
-  array (
-    'link' => 0,
-    'returnAllowed' => 0,
-    'voucherAllowed' => 0,
-    'HOOK_BLOCK_MY_ACCOUNT' => 0,
-    'is_logged' => 0,
-  ),
-  'has_nocache_code' => false,
+  'nocache_hash' => '11783538585ae39ecc342964-45444189',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5adfcc192916b3_91636251',
+  'unifunc' => 'content_5ae5e1c9b39bc0_84529232',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5adfcc192916b3_91636251')) {function content_5adfcc192916b3_91636251($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5ae5e1c9b39bc0_84529232')) {function content_5ae5e1c9b39bc0_84529232($_smarty_tpl) {?>
 <!-- Block myaccount module -->
 <section class="footer-block col-xs-12 col-sm-4">
 	<h4><a href="http://localhost/buildafrica/fr/mon-compte" title="Gérer mon compte client" rel="nofollow">Mon compte</a></h4>
