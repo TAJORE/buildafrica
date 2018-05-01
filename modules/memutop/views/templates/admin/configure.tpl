@@ -38,6 +38,7 @@
 			<li><a href="#">Technician</a></li>
 			<li><a href="#">Deals</a></li>
 			<li><a href="#">JOB</a></li>
+			<li><a href="#">Blog</a></li>
 		</ul>
 	</div>
 </nav>
